@@ -4,7 +4,7 @@ import Image from 'next/image';
 import './About.css';
 
 const teamMembers = [
-  { name: "Pratyush Singh", position: "Software Engineer", image: "/assets/about-beyond.png", className: "member-card1", quote: "Building scalable web solutions" },
+  { name: "trrrPratyush Singh", position: "Software Engineer", image: "/assets/about-beyond.png", className: "member-card1", quote: "Building scalable web solutions" },
   { name: "Sakshi Gupta", position: "Product Designer", image: "/assets/sakshi-about.png", className: "member-card2", quote: "Building scalable web solutions"},
   { name: "Ravi Kumar", position: "Frontend Developer", image: "/assets/about-beyond.png", className: "member-card3", quote: "Building scalable web solutions"},
   { name: "Anjali Mehta", position: "Backend Developer", image: "/assets/about-beyond.png", className: "member-card4", quote: "Building scalable web solutions"},
